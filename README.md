@@ -19,7 +19,7 @@ This project proposes a lightweight public data integrity auditing scheme based 
 
 ├── proof_verification/ # TPA verification and CSP response code
 
-├── results/ # CSV or JSON files with timing data
+├── results/ # CSV and txt files with timing data
 
 ├── analysis/ #Python scripts for plotting and metrics
 
